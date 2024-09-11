@@ -1,0 +1,26 @@
+.modeloCaja {
+    height: 400px;
+    width: 400px;
+    margin: 100px;
+    background-color: #f8eacf;
+    padding: 10px;
+    border: solid 8px rgb(0, 132, 255);
+}
+.modeloCajaC {
+    height: 400px;
+    width: 400px;
+    margin: 100px;
+    background-color: #e0d4be;
+    padding: 10px;
+    border: solid 8px rgb(106, 176, 255);
+    position: relative;
+    left: 25%;
+}
+
+body {
+    background: #abf5ff;
+}
+
+h2 {
+    color: aliceblue;
+}
